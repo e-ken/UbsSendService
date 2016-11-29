@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UbsCollections</name>
+    </assembly>
+    <members>
+        <member name="T:UbsService.UbsRptParamBase">
+            <summary>
+            Базовый класс описания параметра отчета
+            </summary>
+        </member>
+        <member name="M:UbsService.UbsRptParamBase.#ctor">
+            <summary>
+            Конструктор
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.ValueDef">
+            <summary>
+            Получить значение параметра по умолчанию
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Number">
+            <summary>
+            Получить номер параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.NumberSp">
+            <summary>
+            Получить номер параметра в хранимой процедуре (устаревшее)
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Alias">
+            <summary>
+            Получить алиас (имя формулы) параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.PredefinedQuery">
+            <summary>
+            Получить запрос на получение предопределенных значений
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.ParamType">
+            <summary>
+            Получить тип параметра (устаревшее)
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Title">
+            <summary>
+            Получить наименование параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.InputMode">
+            <summary>
+            Получить режим ввода
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.PropType">
+            <summary>
+            Получить тип параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Value">
+            <summary>
+            Получить значение параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Predefined">
+            <summary>
+            Получить предопределенные значения параметра
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.ReadOnly">
+            <summary>
+            Получить значение признака только для чтения
+            </summary>
+        </member>
+        <member name="P:UbsService.UbsRptParamBase.Visible">
+            <summary>
+            Получить значение признака видимости
+            </summary>
+        </member>
+        <member name="T:UbsService.SeparatorType">
+            <summary>
+            Перечисление типов разделителей целой и дробной части
+            </summary>
+        </member>
+        <member name="F:UbsService.SeparatorType.SeparatorTypeSingle">
+            <summary>
+            Разделитель действительного
+            </summary>
+        </member>
+        <member name="F:UbsService.SeparatorType.SeparatorTypeDouble">
+            <summary>
+            Разделитель действительного двойной точности
+            </summary>
+        </member>
+        <member name="F:UbsService.SeparatorType.SeparatorTypeDecimal">
+            <summary>
+            Разделитель действительного с плавающей точкой
+            </summary>
+        </member>
+        <member name="T:UbsService.UbsSeparators">
+            <summary>
+            Разделитель
+            </summary>
+        </member>
+        <member name="M:UbsService.UbsSeparators.GetSeparator(UbsService.SeparatorType)">
+            <summary>
+            Получить разделитель для заданного типа
+            </summary>
+            <param name="shType">Тип разделителя</param>
+            <returns>Разделитель</returns>
+        </member>
+    </members>
+</doc>

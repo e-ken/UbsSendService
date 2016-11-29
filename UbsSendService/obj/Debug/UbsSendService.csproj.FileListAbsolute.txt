@@ -1,0 +1,9 @@
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\bin\Debug\UbsSendService.exe.config
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\bin\Debug\UbsSendService.exe
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\bin\Debug\UbsSendService.pdb
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\obj\Debug\UbsSendService.ProjectInstaller.resources
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\obj\Debug\UbsSendService.csproj.GenerateResource.Cache
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\obj\Debug\UbsSendService.exe
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\obj\Debug\UbsSendService.pdb
+D:\Visual Studio 2005\Projects\UbsSendService\UbsSendService\bin\Debug\RegistrUbsSendService.bat
